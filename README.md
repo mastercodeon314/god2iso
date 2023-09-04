@@ -4,6 +4,12 @@
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+## v1.0.6
+
+***What's new?***
+
+- Updated God2Iso with DarkControls UI lib. Now has more modern dark mode looking UI. 
+
 ## v1.0.5
 
 ***What's new?***
