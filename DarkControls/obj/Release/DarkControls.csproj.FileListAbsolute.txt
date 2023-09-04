@@ -1,9 +1,0 @@
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\bin\Release\DarkControls.dll
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\bin\Release\DarkControls.pdb
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.csproj.AssemblyReference.cache
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.BlankForm.resources
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.Properties.Resources.resources
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.csproj.GenerateResource.cache
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.csproj.CoreCompileInputs.cache
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.dll
-C:\Users\Devtop1\source\repos\god2iso_releaseFork\DarkControls\obj\Release\DarkControls.pdb
