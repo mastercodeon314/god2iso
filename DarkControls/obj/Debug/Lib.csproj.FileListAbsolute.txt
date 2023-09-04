@@ -1,0 +1,8 @@
+C:\Users\LP\source\repos\DarkControls\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\LP\source\repos\DarkControls\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\LP\source\repos\DarkControls\Lib\bin\Debug\Lib.dll
+C:\Users\LP\source\repos\DarkControls\Lib\bin\Debug\Lib.pdb
+C:\Users\LP\source\repos\DarkControls\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\LP\source\repos\DarkControls\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+C:\Users\LP\source\repos\DarkControls\Lib\obj\Debug\Lib.dll
+C:\Users\LP\source\repos\DarkControls\Lib\obj\Debug\Lib.pdb

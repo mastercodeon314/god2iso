@@ -1,0 +1,9 @@
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\bin\x64\Release\DarkControls.dll
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\bin\x64\Release\DarkControls.pdb
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.csproj.AssemblyReference.cache
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.BlankForm.resources
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.Properties.Resources.resources
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.csproj.GenerateResource.cache
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.csproj.CoreCompileInputs.cache
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.dll
+C:\Users\CodeonDev\source\repos\DarkControls\DarkControls\obj\x64\Release\DarkControls.pdb
