@@ -483,7 +483,9 @@ namespace God2Iso
         {
             MessageBox.Show("Copyright (c) 2010-2021 richardaburton@gmail.com" + Environment.NewLine
                 + "This program is licensed under https://creativecommons.org/licenses/by-sa/4.0/" + Environment.NewLine
-                + "Find this project on Github: https://github.com/raburton/god2iso/" + Environment.NewLine
+                + "Find this project on Github: https://github.com/raburton/god2iso/" + Environment.NewLine + Environment.NewLine
+                + "UI Redesigned by mastercodeon314" + Environment.NewLine
+                + "Find the v1.0.6 UI Redo fork here: https://github.com/mastercodeon314/god2iso"
                 , "God2Iso", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
