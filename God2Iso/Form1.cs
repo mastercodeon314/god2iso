@@ -419,7 +419,7 @@ namespace God2Iso
         private string GetAppName()
         {
             string s = "God2Iso v" + Assembly.GetExecutingAssembly().GetName().Version.ToString();
-            return s.Substring(0, s.Length - 2);
+            return s.Substring(0, s.Length - 2) + "-dark";
         }
 
         private void backgroundWorker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
